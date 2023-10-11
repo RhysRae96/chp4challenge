@@ -10,7 +10,10 @@ namespace ConsoleApp
     {
         static void Main(string[] args)
         {
+
 		//test comment for calculator
+		//added code in the converter
+		//added all 3 lines to resolve merge issue
         }
     }
 }
